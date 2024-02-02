@@ -14,10 +14,18 @@
 
 [Быстрый старт в ИИ](https://stepik.org/course/80782/)
  
-[Основы С/С++ для СП](https://stepik.org/course/80538/)
+[Основы С/С++ для Спортивного Программирования](https://stepik.org/course/80538/)
  
-[Быстрый старт в СП](https://stepik.org/course/64454/)
+[Быстрый старт в Спортивного Программирования](https://stepik.org/course/64454/)
  
-[Быстрый старт в СП ч.2](https://stepik.org/course/93079/)
+[Быстрый старт в Спортивного Ппрограммирования ч.2](https://stepik.org/course/93079/)
+
+</details>
+
+---
+
+<details><summary>
+Math
+</summary>
 
 </details>
