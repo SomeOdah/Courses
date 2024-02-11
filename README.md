@@ -11,22 +11,22 @@
 <details>
  <summary> Sport Programming </summary>
 
- [Основы теории графов](https://stepik.org/course/111246/){:target="_blank"}
+ <a href = "https://stepik.org/course/111246/" target="_blank">Основы теории графов</a>
 
- [Быстрый старт в ИИ](https://stepik.org/course/80782/){:target="_blank"}
+ <a href = "https://stepik.org/course/80782/" target="_blank">Быстрый старт в ИИ</a>
 
- [Основы С/С++ для Спортивного Программирования](https://stepik.org/course/80538/){:target="_blank"}
+ <a href ='"https://stepik.org/course/80538/" target="_blank">Основы С/С++ для спортивного программирования</a>
 
- [Быстрый старт в Спортивного Программирования](https://stepik.org/course/64454/){:target="_blank"}
+ <a href = "https://stepik.org/course/64454/" target="_blank">Быстрый старт в спортивное программирование</a>
 
- [Быстрый старт в Спортивного Ппрограммирования ч.2](https://stepik.org/course/93079/){:target="_blank"}
+ <a href = "https://stepik.org/course/93079/" target="_blank">Быстрый старт в спортивное программирование ч.2</a>
 
  </details>
 
  <details>
  <summary>Git</summary>
 
- [Основы работы с git](https://practicum.yandex.ru/profile/git-basics/){:target="_blank"}
+ <a href = "https://practicum.yandex.ru/profile/git-basics/" target="_blank">Основы работы с got</a>
 
  </details>
 
@@ -52,7 +52,6 @@
 
 <details open>
 <summary>Math</summary>
-
-[Аналитическая геометрия](https://apps.openedu.ru/learning/course/course-v1:mipt+AN_GEOM+session/home){:target="_blank"}
+<a href = "https://apps.openedu.ru/learning/course/course-v1:mipt+AN_GEOM+session/home" target="_blank">Аналитическая геометрия</a>
 
 </details>
